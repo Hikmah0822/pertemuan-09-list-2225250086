@@ -1,8 +1,10 @@
 # Pertemuan 09 - List dan Pengolahan Data Numerik
 
-Nama: ...
-NIM: ...
-Kelas: ...
+Nama: Hikmah Azizah
+
+NIM: 2225250086
+
+Kelas: 3B
 
 ## Tujuan
 Mengolah kumpulan data numerik dengan list Python[cite: 1].
